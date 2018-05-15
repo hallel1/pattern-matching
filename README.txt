@@ -1,6 +1,6 @@
-User Name: hallelda 
+ 
 Name: Hallel Davidian
-ID: 318593720
+
 Name of the exercise: Ex1 - String Pattern Matching Algorithm PartB.
 -----------------------------------------------------
 The list of the submitted files:
